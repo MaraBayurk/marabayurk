@@ -10,7 +10,7 @@ Soy Mara Valentina Bayurk, Full Stack Developer en desarrollo, con muchas ganas 
 
 - 💻❤😺 Me **encantan** los animales y ayudar a los demás creando y aportando ideas!
 
-- 🚀 Buscando mi primera oportunidad en el mundo IT 
+- 🚀 En busca de nuevos proyectos !
 
 
 ## Tecnologias
