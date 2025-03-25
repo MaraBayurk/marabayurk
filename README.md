@@ -3,7 +3,6 @@
 
 
 [<img style='margin:0 15px' align="left" alt="MARA VALENTINA BAYURK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img style='margin:0 15px' align="left" alt="maravalentinabayurk | codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/codewars.svg" />][codewars]
 <br />
 
 Soy Mara Valentina Bayurk, Frontend Developer, con muchas ganas de seguir aprendiendo y realizar grandes proyectos!
