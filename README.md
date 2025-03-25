@@ -6,9 +6,9 @@
 [<img style='margin:0 15px' align="left" alt="maravalentinabayurk | codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/codewars.svg" />][codewars]
 <br />
 
-Soy Mara Valentina Bayurk, Full Stack Developer orientada al Frontend, con muchas ganas de aprender y realizar grandes proyectos!
+Soy Mara Valentina Bayurk, Frontend Developer, con muchas ganas de seguir aprendiendo y realizar grandes proyectos!
 
-- 💻❤😺 Me **encantan** los animales y ayudar a los demás creando y aportando ideas!
+- 💻❤😺 Me **encantan** los animales y crear interfaces pensando en los usuarios!
 
 - 🚀 En busca de nuevos proyectos !
 
@@ -29,4 +29,3 @@ Soy Mara Valentina Bayurk, Full Stack Developer orientada al Frontend, con mucha
 
 
 [linkedin]: https://www.linkedin.com/in/mara-bayurk/
-[codewars]:https://www.codewars.com/users/MaraBayurk
